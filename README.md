@@ -44,4 +44,19 @@ The insights generated help brands and marketers make **data-driven decisions** 
   - Micro-influencers = **high engagement with smaller audiences** → great for targeted, community-driven campaigns.
     
 - **Screenshot previews:**
+  
+  **Dashboard**
+
+  <img width="1296" height="727" alt="image" src="https://github.com/user-attachments/assets/77e359d2-b907-4d70-8c65-f4876b0be354" />
+
+  **Top 5 Instagram Influencers**
+  
   <img width="426" height="360" alt="Image" src="https://github.com/user-attachments/assets/26b56771-533f-41f4-a50b-6d96ab8d3064" />
+
+  **Top 5 Instagram Potential Reach by Name**
+
+  <img width="432" height="364" alt="Image" src="https://github.com/user-attachments/assets/90bc3247-7710-46a9-854d-692c352ad3d7" />
+
+  **Instagram Average Engagement Rate and Total Followers by Name**
+  
+  <img width="428" height="363" alt="Image" src="https://github.com/user-attachments/assets/828fe83a-f4bd-4d84-ad02-967515eea1c8" />
