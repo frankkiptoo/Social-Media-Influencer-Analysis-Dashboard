@@ -1,5 +1,4 @@
 # Social-Media-Influencer-Analysis-Dashboard
-# 📊 Social Media Influencer Analysis Dashboard
 
 ## Summary  
 This project presents an end-to-end data cleaning, transformation, and visualization workflow for analyzing social media influencers across **Instagram, Threads, TikTok, and YouTube**.  
