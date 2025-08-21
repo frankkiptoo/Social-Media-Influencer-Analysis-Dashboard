@@ -41,8 +41,7 @@ The insights generated help brands and marketers make **data-driven decisions** 
 
 - **Business Insights:**  
   - Mega influencers = **large reach but low engagement** → great for awareness campaigns.  
-  - Micro-influencers = **high engagement with smaller audiences** → great for targeted, community-driven campaigns.  
-
----
-
-## 📂 Repository Structure  
+  - Micro-influencers = **high engagement with smaller audiences** → great for targeted, community-driven campaigns.
+    
+- **Screenshot previews:**
+  <img width="426" height="360" alt="Image" src="https://github.com/user-attachments/assets/26b56771-533f-41f4-a50b-6d96ab8d3064" />
